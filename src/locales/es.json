@@ -1,0 +1,13 @@
+{
+  "home": "Inicio",
+  "checkIn": "Registro",
+  "welcome": "Bienvenido!!",
+  "registeredEvents": "Registros de Eventos",
+  "ticketIdentifier": "Identificador del Ticket",
+  "invalidTicket": "Ticket inválido. Por favor, inténtalo de nuevo.",
+  "alreadyCheckedIn": "Ya has realizado el check-in.",
+  "errorFetchingData": "Error al obtener los datos.",
+  "errorUpdatingCheckIn": "Error al actualizar el check-in.",
+  "errorFetchingEvent": "Error al obtener la información del evento.",
+  "eventCheckIn": "Check-In del Evento"
+}

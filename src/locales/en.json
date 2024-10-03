@@ -1,0 +1,13 @@
+{
+  "home": "Home",
+  "checkIn": "Check-In",
+  "welcome": "Welcome!!",
+  "registeredEvents": "Registered Events",
+  "ticketIdentifier": "Ticket Identifier",
+  "invalidTicket": "Invalid ticket. Please try again.",
+  "alreadyCheckedIn": "You have already checked in.",
+  "errorFetchingData": "Error fetching data.",
+  "errorUpdatingCheckIn": "Error updating check-in.",
+  "errorFetchingEvent": "Error fetching event information.",
+  "eventCheckIn": "Event Check-In"
+}
